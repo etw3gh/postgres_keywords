@@ -8,8 +8,8 @@ copy table to keywords.txt
 
 ## script
 
-this helper script creates a file `keywords.js` containng a js array 
+this helper script puts a js array to stdout. save by bash redirection. 
 
-    ./kw.sh
+    ./kw.sh > keywords.js
 
 
